@@ -9,6 +9,8 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
 
+// Part A: 優點是使用現成集合
+// 使用現成集合: TreeSet
 public class WordProcessor {
 	private static <E> String displaySet(Set<E> inputSet){
 		//implement this static method to create a
